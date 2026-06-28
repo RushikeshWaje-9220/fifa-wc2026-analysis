@@ -9,7 +9,7 @@
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
-> 🌐 **[View Live Dashboard](dashboard/index.html)** — Open in any browser, no setup needed.
+> 🌐 **[View Live Dashboard](https://RushikeshWaje-9220.github.io/fifa-wc2026-analysis/)** — No setup needed, opens instantly in browser.
 
 ---
 
